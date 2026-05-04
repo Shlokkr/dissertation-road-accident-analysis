@@ -1,5 +1,10 @@
 # dissertation-road-accident-# 🚗 Weather Impact Analysis on Road Traffic Accidents
 
+## 🚀 Key Outcome
+- Analysed 100K+ records from UK transport data
+- Built ML models to classify accident severity
+- Identified weather and time as key risk factors
+
 ## 📌 Overview
 
 This project analyses UK road traffic accident data to understand how weather conditions and temporal factors influence accident severity. The goal was to identify key risk patterns and support data-driven road safety decisions.
